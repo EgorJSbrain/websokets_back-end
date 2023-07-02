@@ -10,3 +10,5 @@ For runing project
 2. clone front-end https://github.com/EgorJSbrain/paint_react
 3. start front: yanr run dev
 4. start back: yanr run dev
+
+For painting colobaretavily copy link from url and open this link in enother page, set your name and you can paint
